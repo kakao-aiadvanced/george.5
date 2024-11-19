@@ -31,3 +31,6 @@
 
 ## 실습 자료
 - https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb
+
+## 실습 정답
+- https://colab.research.google.com/drive/1qSYXaPjLHtu1-fAyBOlDnylQU3HkNkpo#scrollTo=Y5yCvU0hafnO
