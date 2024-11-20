@@ -20,10 +20,4 @@
 - https://docs.google.com/presentation/d/1hpza44hH-zOlxVEc9xUq6vTPhqCzr2_UFdKNHYeIwsY/edit#slide=id.p
 
 ### 추가로 보기
-
-## 5. Evaluation 
-
-### 강의 자료
-- https://docs.google.com/presentation/d/1kt9vuxnO3iF4XqwoBAuV5BUjnrCJpfHGsV2kPPjh7RA/edit#slide=id.p
-
-## 실습 자료
+- https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/6/training-process
